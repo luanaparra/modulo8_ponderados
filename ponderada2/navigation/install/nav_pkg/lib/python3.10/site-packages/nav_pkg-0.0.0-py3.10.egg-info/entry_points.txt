@@ -1,0 +1,5 @@
+[console_scripts]
+initial_position = nav_pkg.initial_position:main
+input = nav_pkg.input:main
+nav_node = nav_pkg.navigation:main
+

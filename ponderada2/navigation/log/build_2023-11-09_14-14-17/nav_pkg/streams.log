@@ -1,0 +1,26 @@
+[0.712s] Invoking command in '/home/giovanna/navigation/src/nav_pkg': PYTHONPATH=/home/giovanna/navigation/build/nav_pkg/prefix_override:/home/giovanna/navigation/install/nav_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/nav_pkg build --build-base /home/giovanna/navigation/build/nav_pkg/build install --record /home/giovanna/navigation/build/nav_pkg/install.log --single-version-externally-managed
+[0.880s] running egg_info
+[0.880s] writing ../../build/nav_pkg/nav_pkg.egg-info/PKG-INFO
+[0.880s] writing dependency_links to ../../build/nav_pkg/nav_pkg.egg-info/dependency_links.txt
+[0.880s] writing entry points to ../../build/nav_pkg/nav_pkg.egg-info/entry_points.txt
+[0.881s] writing requirements to ../../build/nav_pkg/nav_pkg.egg-info/requires.txt
+[0.881s] writing top-level names to ../../build/nav_pkg/nav_pkg.egg-info/top_level.txt
+[0.882s] reading manifest file '../../build/nav_pkg/nav_pkg.egg-info/SOURCES.txt'
+[0.883s] writing manifest file '../../build/nav_pkg/nav_pkg.egg-info/SOURCES.txt'
+[0.883s] running build
+[0.883s] running build_py
+[0.884s] copying nav_pkg/navigation.py -> /home/giovanna/navigation/build/nav_pkg/build/lib/nav_pkg
+[0.884s] running install
+[0.884s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.885s]   warnings.warn(
+[0.885s] running install_lib
+[0.885s] copying /home/giovanna/navigation/build/nav_pkg/build/lib/nav_pkg/navigation.py -> /home/giovanna/navigation/install/nav_pkg/lib/python3.10/site-packages/nav_pkg
+[0.885s] byte-compiling /home/giovanna/navigation/install/nav_pkg/lib/python3.10/site-packages/nav_pkg/navigation.py to navigation.cpython-310.pyc
+[0.886s] running install_data
+[0.886s] running install_egg_info
+[0.887s] removing '/home/giovanna/navigation/install/nav_pkg/lib/python3.10/site-packages/nav_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.887s] Copying ../../build/nav_pkg/nav_pkg.egg-info to /home/giovanna/navigation/install/nav_pkg/lib/python3.10/site-packages/nav_pkg-0.0.0-py3.10.egg-info
+[0.888s] running install_scripts
+[0.903s] Installing nav_node script to /home/giovanna/navigation/install/nav_pkg/lib/nav_pkg
+[0.903s] writing list of installed files to '/home/giovanna/navigation/build/nav_pkg/install.log'
+[0.931s] Invoked command in '/home/giovanna/navigation/src/nav_pkg' returned '0': PYTHONPATH=/home/giovanna/navigation/build/nav_pkg/prefix_override:/home/giovanna/navigation/install/nav_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/nav_pkg build --build-base /home/giovanna/navigation/build/nav_pkg/build install --record /home/giovanna/navigation/build/nav_pkg/install.log --single-version-externally-managed
