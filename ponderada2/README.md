@@ -34,6 +34,6 @@ ros2 launch navigation navigator_launch.py
 ```
 
 ## Video do funcionamento 
-
+[link]()
 
 
