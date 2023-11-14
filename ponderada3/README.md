@@ -23,6 +23,6 @@ ros2 run chatbot chatbot_node
 ```
 
 ## Video do funcionamento 
-
+[link](https://github.com/luanaparra/modulo8_ponderados/blob/main/ponderada3/video-chat.mov)
 
 
