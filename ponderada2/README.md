@@ -34,6 +34,6 @@ ros2 launch navigation navigator_launch.py
 ```
 
 ## Video do funcionamento 
-[link]()
+[link](https://github.com/luanaparra/modulo8_ponderados/blob/main/ponderada2/video-robo.mov)
 
 
