@@ -19,7 +19,7 @@ source install/local_setup.bash
 ```
 2. Executar o chat
 ```
-ros2 run chatbot chatbot_node
+ros2 run simple_chatbot chatbot_node.py
 ```
 
 ## Video do funcionamento 
