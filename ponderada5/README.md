@@ -8,7 +8,8 @@ Na ponderada 4, o primeiro código é um exemplo de código inicial para um chat
 
 Posto isso, a ponderada 5 teve uma nova implementação, além da interface.
 
-**Importações**: O código começa importando as bibliotecas necessárias, incluindo módulos do ROS (rclpy, Node, Float32MultiArray), ferramentas para processamento de texto e IA (gradio, dotenv, etc.).
+**Importações**: 
+- O código começa importando as bibliotecas necessárias, incluindo módulos do ROS (rclpy, Node, Float32MultiArray), ferramentas para processamento de texto e IA (gradio, dotenv, etc.).
 
 **Classe LLMNode**:
 - Inicialização: O construtor __init__ define o nó llm_node; cria um publicador para enviar mensagens do tipo Float32MultiArray para o tópico /waypoints; inicia o carregamento do modelo de chatbot, carrega dados de um PDF, configura o processamento de texto, etc.
