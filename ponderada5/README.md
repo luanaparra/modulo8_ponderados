@@ -6,7 +6,7 @@ Melhoria do chatbot desenvolvido na ponderada anterior, agora utilizando técnic
 ## Explicação
 Na ponderada 4, o primeiro código é um exemplo de código inicial para um chatbot que recebe perguntas do usuário via terminal e publica essas perguntas em um tópico chamado "/llm". O segundo código é a parte central do sistema, onde um nó ROS 2 chamado "llm_node" recebe as mensagens, processa-as utilizando um modelo de linguagem (especificamente um modelo da biblioteca langchain), e publica as respostas em um tópico chamado "/chatbot". Por fim, o terceiro código é responsável pela inicialização do nó "llm_node" e pelo gerenciamento do ciclo de vida do ROS.
 
-Posto isso, a ponderada 5 teve uma nova implementação, além da interface.
+Posto isso, a ponderada 5 teve uma nova maneira de implementação do chat, além da interface.
 
 **Importações**: 
 - O código começa importando as bibliotecas necessárias, incluindo módulos do ROS (rclpy, Node, Float32MultiArray), ferramentas para processamento de texto e IA (gradio, dotenv, etc.).
