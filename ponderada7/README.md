@@ -28,8 +28,7 @@ Observações:
 - É possível ajustar a arquitetura, como o número de neurônios ou camadas, para explorar diferentes configurações.
 - Os hiperparâmetros, como épocas de treinamento, também podem ser ajustados para otimizar o desempenho.
 
-**Execução**:
-Instruções de Execução:
+**Instruções de Execução:**
 1. Certifique-se de ter o Python e TensorFlow instalados no seu ambiente.
 2. Copie e cole este código em um arquivo Python (por exemplo, 'mnist_classifier.py').
 3. Execute o arquivo Python em um ambiente com acesso à internet para baixar o conjunto de dados MNIST.
