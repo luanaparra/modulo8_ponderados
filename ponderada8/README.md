@@ -21,4 +21,4 @@ python nome_do_arquivo.py caminho_para_o_arquivo_de_audio
 Nesse caso, o 'caminho_para_o_arquivo_de_audio' é onde você quer guardar o arquivo do audio. 
 
 ## Vídeo
-[link](https://github.com/luanaparra/modulo8_ponderados/blob/main/ponderada4/ponderada4.mp4)
+[link](https://github.com/luanaparra/modulo8_ponderados/blob/main/ponderada8/ponderada8.mp4)
